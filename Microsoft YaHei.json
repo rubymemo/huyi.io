@@ -2,10 +2,12 @@
 	"time":"09-20",
 	"title":"最新滤镜",
 	"Subtitle":"宽幅胶片",
-	"textAlign":"left"
+	"textAlign":"left",
+	"Image":"test.jpg"
 },{
 	"time":"09-20",
 	"title":"最新滤镜",
 	"Subtitle":"宽幅胶片",
-	"textAlign":"right"
+	"textAlign":"right",
+	"Image":"test.jpg"
 }]
